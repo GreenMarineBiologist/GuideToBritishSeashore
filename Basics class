@@ -1,0 +1,113 @@
+class Flora():
+    def Marine_algae():
+        green = "chlorophyceae"
+        red = "rhodophyceae"
+        brown = "phaeophyceae"
+    def lichens():
+    #listed to be crusted
+    #encrusted
+    name = ""
+
+    def flowering_plants():
+    angio = "angiosperms"
+
+class Porifera():
+    def p_class:
+        print("Calcerea")
+        print("Demospongiae")
+
+class Cnidaria():
+    def c_class:
+        print("Scyphozoa")
+        print("Hydrozoa")
+        print("Octocorallia")
+        print("Hexacorallia")
+
+class Ctenophora():
+    print("Sea gooseberry")
+    print("comb jellies")
+
+class Entoprocta():
+    print("Type of worm")
+
+class Platyhelminthes():
+    print("Type of worm")
+
+class Nermertea():
+    print("Type of worm")
+
+class Annelida():
+    print("Type of worm")
+    def w_class():
+        print("Oligochaeta")
+        print("Hirundinea")
+        print("Polychaeta")
+
+class Priapula():
+    print("Type of worm")
+    print("Penis worm")
+
+class Echiura():
+    print("Type of worm")
+    print("Spoon worm")
+
+class Sipuncula():
+    print("Type of worm")
+
+class Crustacea():
+    def cr_class():
+        print("Cirripedia")
+        print("Copepoda")
+        print("Ostracoda")
+        print("Malacostraca")
+
+class Pycnogonida():
+    print("This is a sea spider")
+
+class Insecta():
+    print("Uncommon")
+
+class Mollusca():
+    #this will be a big one
+    def m_class():
+        print("Polyplacophora")
+        print("Scaphopoda")
+        print("Gastropoda")
+        print("Prosobranchia")
+        print("Opisthobranchia")
+        print("Pulmonata")
+        print("Pelecypoda")
+        print("Cephalopoda")
+
+class Phoronia():
+    print("These are horseshoe worms")
+    print("Not a worm though")
+
+class Brachiopoda():
+    print("Lampshells")
+
+class Bryozoa():
+    def b_class():
+        print("Stenolaemata")
+        print("Gymnolaemata")
+
+class Echinodermata():
+    def e_class():
+        print("Crinodea")
+        print("Asteroidea")
+        print("Ophiuroidea")
+        print("Echinoidea")
+        print("Holothurioidea")
+
+class Hemichordata():
+    def h_class():
+        print("Enteropneusta")
+        def Urochordata():
+            print("Ascidiacea")
+
+class Inshore_Teleosts():
+    print("Things like rock gobies and blennies")
+
+class Strandline():
+    print("This will be things of interest found on the shoreline")
+    print("Things like mermaid purses and shells")
